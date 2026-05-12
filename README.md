@@ -6,5 +6,6 @@ Checks against both @openzeppelin/contracts and @openzeppelin/contracts-upgradea
 # Usage:
 
 """
+
 python3 oz_integrity_verify.py ./my_vendored_oz
 """
